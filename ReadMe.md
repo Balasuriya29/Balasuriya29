@@ -1,4 +1,4 @@
- <h1>Hi 👋, I'm Balasuriya 😄 M</h1>
+ <h1>Hi 👋, I'm Balasuriya K A 😄</h1>
 # 💫 About Me:
 🔭 I’m currently working on OnYourMarks<br>🌱 I’m currently learning Data Structures, DBMS, React 🖥<br>💬 Ask me about Problem Solving, Data Structures, Node.js 😊<br>📄 Know about my experiences https://drive.google.com/file/d/1j7CEWMAUNoHZAdoaQXpzR_X6OZWSZJTu/view?usp=sharing<br>📫 How to reach me balasuriyaka29@gmail.com<br>⚡ Fun fact - I am a Chess Nerd♟😎
 
